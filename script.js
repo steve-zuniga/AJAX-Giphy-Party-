@@ -11,7 +11,7 @@
 // Replace this with your own Giphy API key. Without a valid key the API will
 // return a 401 Unauthorized response. You can register for your own key at
 // https://developers.giphy.com/.
-const API_KEY = b8eGq1Qe8LEZKGrD2HUvPSi9AC51nHQa ;
+const API_KEY = 'YMtrCkWZi3Crk7WBsNK8AnI9KfDT8QW9';
 
 // Select the DOM elements we'll interact with.
 const searchForm = document.querySelector('#search-form');
